@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+    <g clip-path="url(#mingcute:close-fill__a)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="m25 29.419 11.048 11.05a3.126 3.126 0 0 0 4.42-4.421L29.417 25l11.05-11.048a3.125 3.125 0 0 0-4.42-4.419L25 20.581 13.952 9.533a3.124 3.124 0 1 0-4.42 4.417L20.582 25 9.533 36.048a3.126 3.126 0 0 0 4.421 4.42L25 29.418v.002Z"/>
+    </g>
+    <defs>
+    <clipPath id="mingcute:close-fill__a">
+    <path fill="#888" d="M0 0h50v50H0z"/>
+    </clipPath>
+    </defs>
+</svg>
